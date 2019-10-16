@@ -1,0 +1,28 @@
+body {
+    background: grey;
+}
+
+.container {
+    background: navy;
+    color: white;
+    margin-top: 1.75rem;
+}
+
+.container small {
+    color: wheat;
+}
+
+.story-container {
+    background: lightpink;
+    color: red;
+
+}
+
+.story-container p {
+    font-size: 1.25rem;
+}
+
+.container,
+.story-container {
+    padding: 2rem;
+}
